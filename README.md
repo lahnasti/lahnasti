@@ -1,25 +1,5 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Centered Typing SVG</title>
-    <style>
-        .center {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
-    </style>
-</head>
-<body>
-    <div class="center">
-        <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7B3F1&background=BB09FF00&random=false&width=435&lines=Hi%2C+I'm+Anastasia!" alt="Typing SVG" />
-        </a>
-    </div>
-</body>
-</html>
+<h1 align="center">Hi 👋, I'm Anastasia</h1>
+
 <h3 align="center">A beginner backend developer 🦙</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahnasti&label=Profile%20views&color=f9d3e0&style=flat" alt="lahnasti" /> </p>
