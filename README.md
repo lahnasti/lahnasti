@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahnasti&label=Profile%20views&color=f9d3e0&style=flat" alt="lahnasti" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lahnasti" alt="lahnasti" /></a> </p>
-
 - ⚡ I'm studying at 21 IT-school from Sberbank since October 2023 **wileytor**
 
 - 📝 Diary about my life [https://t.me/+vm7aoq1NvKcyODBi](https://t.me/+vm7aoq1NvKcyODBi)
