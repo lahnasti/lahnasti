@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anastasia</h1>
 
-<h3 align="center">A beginner backend developer 🦙</h3>
+<h3 align="center">I'm backend developer 🦙</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lahnasti&label=Profile%20views&color=f9d3e0&style=flat" alt="lahnasti" /> </p>
 
